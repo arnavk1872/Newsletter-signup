@@ -4,7 +4,7 @@
   "description": "A signup page for my newsletter.",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "author": "Arnav Khajuria",
   "license": "ISC",
